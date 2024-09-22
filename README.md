@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript advanced techniques, Nextjs Functions**
 
-- 💬 Ask me about **Javascript and C#**
+- 💬 Ask me about **Javascript, Python and C#**
 
 - 📫 How to reach me **sinanmp234@gmail.com**
 
