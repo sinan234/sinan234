@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Storio- Automated Store Solutions**
+- 🔭 I’m currently working as Software Developement Engineer at **Carestack**
 
 - 🌱 I’m currently learning **Javascript advanced techniques, Nextjs Functions**
 
-- 👯 I’m looking to collaborate on **Praan- Lab Asiistant**
-
-- 💬 Ask me about **React, C and Python**
+- 💬 Ask me about **Javascript and C#**
 
 - 📫 How to reach me **sinanmp234@gmail.com**
 
