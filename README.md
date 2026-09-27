@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Sinan M P
+# Mohammad Sinan M P
 
 ### Software Engineer · C# · .NET · Angular · Microservices · Azure
 
@@ -78,9 +78,9 @@ I enjoy working across the complete software lifecycle — from designing backen
 
 | | |
 |---|---|
-| **<img src="https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" width="22" valign="middle"/> Azure Developer Associate**<br/>Microsoft · April 2026<br/>`App Service` `Functions` `Azure SQL` `Storage` | **<img src="https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" width="22" valign="middle"/> Azure Fundamentals**<br/>Microsoft · March 2026<br/>`Cloud Concepts` `Azure Services` `Governance` |
-| **<img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white" width="22" valign="middle"/> OCI Developer Professional**<br/>Oracle · October 2025<br/>`OCI Development` `Cloud Native` `APIs` `Serverless` | **<img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white" width="22" valign="middle"/> OCI Generative AI Professional**<br/>Oracle · October 2025<br/>`Generative AI` `LLMs` `Model Deployment` |
-| **<img src="https://img.shields.io/badge/-F80000?style=flat-square&logo=oracle&logoColor=white" width="22" valign="middle"/> OCI AI Foundations Associate**<br/>Oracle · November 2025<br/>`Artificial Intelligence` `Neural Networks` `ML Concepts` | **<img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=google&logoColor=white" width="22" valign="middle"/> Foundations of UX Design**<br/>Google · March 2023<br/>`UX Design` `User Research` `Prototyping` |
+| **Azure Developer Associate**<br/>![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) · April 2026<br/>`App Service` `Functions` `Azure SQL` `Storage` | **Azure Fundamentals**<br/>![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) · March 2026<br/>`Cloud Concepts` `Azure Services` `Governance` |
+| **OCI Developer Professional**<br/>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) · October 2025<br/>`OCI Development` `Cloud Native` `APIs` `Serverless` | **OCI Generative AI Professional**<br/>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) · October 2025<br/>`Generative AI` `LLMs` `Model Deployment` |
+| **OCI AI Foundations Associate**<br/>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) · November 2025<br/>`Artificial Intelligence` `Neural Networks` `ML Concepts` | **Foundations of UX Design**<br/>![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) · March 2023<br/>`UX Design` `User Research` `Prototyping` |
 
 ---
 
