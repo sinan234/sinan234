@@ -1,30 +1,175 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sinan M P</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+# Sinan M P
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinan234&label=Profile%20views&color=0e75b6&style=flat" alt="sinan234" /> </p>
+### Software Engineer · C# · .NET · Angular · Microservices · Azure
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinan234" alt="sinan234" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working as Software Developement Engineer at **Carestack**
-
-- 🌱 I’m currently learning **Javascript advanced techniques, Nextjs Functions**
-
-- 💬 Ask me about **Javascript, Python and C#**
-
-- 📫 How to reach me **sinanmp234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-sinan-m-p-0a4394226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-sinan-m-p-0a4394226/" height="30" width="40" /></a>
+  <a href="https://smpportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-sinan-0a4394226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan234&show_icons=true&locale=en&layout=compact" alt="sinan234" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinan234&show_icons=true&locale=en" alt="sinan234" /></p>
+I'm a **Software Engineer** focused on building reliable, scalable, and maintainable software.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinan234&" alt="sinan234" /></p>
+My primary stack is **C#, .NET, Angular, REST APIs, SQL Server, and microservices**, with experience across cloud platforms, distributed systems, messaging, caching, and containerized applications.
+
+I'm particularly interested in **backend architecture, cloud-native development, distributed systems, system design, and AI-powered applications**.
+
+- 💻 Full-stack development with **.NET & Angular**
+- 🏗️ REST APIs & **microservice architecture**
+- ☁️ **Microsoft Azure & Oracle Cloud Infrastructure**
+- 🗄️ SQL Server & database-driven applications
+- 🔄 Distributed systems, messaging & caching
+- 🤖 Generative AI & cloud AI technologies
+- 🧠 Data Structures, Algorithms & System Design
+
+---
+
+## Core Technologies
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+`C#` `ASP.NET Core` `ASP.NET MVC` `REST APIs` `Microservices` `Entity Framework`
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Kendo UI`
+
+### Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+`Microsoft Azure` `Oracle Cloud Infrastructure` `Docker` `Azure DevOps` `CI/CD`
+
+### Data, Messaging & Infrastructure
+
+`SQL Server` `MySQL` `MongoDB` `Redis` `RabbitMQ`
+
+`Azure Service Bus` `Azure Event Grid` `Azure Event Hubs`
+
+---
+
+# Certifications
+
+### Microsoft
+
+**Azure Developer Associate**  
+`April 2026`
+
+Azure App Service · Azure Functions · Azure SQL · Azure Storage
+
+**Azure Fundamentals**  
+`March 2026`
+
+Cloud Concepts · Azure Services · Governance
+
+---
+
+### Oracle
+
+**OCI Developer Professional**  
+`October 2025`
+
+OCI Development · Cloud Native · APIs · Serverless
+
+**OCI Generative AI Professional**  
+`October 2025`
+
+Generative AI · LLMs · Model Deployment
+
+**OCI AI Foundations Associate**  
+`November 2025`
+
+Artificial Intelligence · Neural Networks · Machine Learning Concepts
+
+---
+
+### Google
+
+**Foundations of UX Design**  
+`March 2023`
+
+UX Design · User Research · Prototyping
+
+---
+
+# Engineering Focus
+
+My current focus is on building deeper expertise in:
+
+- **System Design & Architecture**
+- **Data Structures & Algorithms**
+- **Distributed Systems**
+- **Microservices**
+- **Cloud-Native Applications**
+- **Azure Architecture**
+- **Generative AI & LLM Applications**
+- **Performance & Scalability**
+
+---
+
+# Featured Work
+
+I use GitHub to experiment with and build projects around:
+
+**Full-Stack Applications**
+
+C# · .NET · Angular · REST APIs · SQL Server
+
+**Cloud & Distributed Systems**
+
+Azure · OCI · Docker · Microservices · Messaging · Redis
+
+**AI & Modern Applications**
+
+Generative AI · LLMs · AI APIs · Cloud AI
+
+Explore my repositories to see the projects, experiments, and implementations.
+
+---
+
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinan234&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinan234&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+# Connect
+
+<p align="left">
+
+<a href="https://smpportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-smpportfolio.vercel.app-111827?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-sinan-0a4394226/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Sinan%20M%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Building software. Learning continuously. Solving real problems.</sub>
+</p>
