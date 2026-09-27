@@ -1,221 +1,121 @@
+<div align="center">
+
 #  Sinan M P
 
 ### Software Engineer · C# · .NET · Angular · Microservices · Azure
 
-<p align="left">
+<p>
   <a href="https://smpportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Portfolio-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-sinan-0a4394226/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sinan234">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a **Software Engineer** specializing in building scalable and
-maintainable full-stack applications.
+I'm a **Software Engineer** specializing in building scalable and maintainable full-stack applications.
 
-My primary expertise is in **C#, .NET, Angular, REST APIs, SQL Server,
-and microservices**, with experience across cloud platforms,
-distributed systems, messaging, caching, and containerized applications.
+My primary expertise is in **C#, .NET, Angular, REST APIs, SQL Server, and microservices**, with experience across cloud platforms, distributed systems, messaging, caching, and containerized applications.
 
-I enjoy working across the complete software lifecycle — from designing
-backend services and databases to building frontend applications and
-deploying cloud-based solutions.
-
-### Areas I work with
-
-- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Microservices
-- **Frontend:** Angular, TypeScript, JavaScript, Kendo UI
-- **Data:** SQL Server, MySQL, MongoDB
-- **Cloud:** Microsoft Azure, Oracle Cloud Infrastructure
-- **Infrastructure:** Docker, Azure DevOps, CI/CD
-- **Distributed Systems:** RabbitMQ, Redis, Azure Service Bus
-- **Architecture:** Microservices, Event-Driven Systems, System Design
+I enjoy working across the complete software lifecycle — from designing backend services and databases to building frontend applications and deploying cloud-based solutions.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Backend
+<div align="center">
 
-`C#` · `.NET` · `ASP.NET Core` · `ASP.NET MVC` · `REST APIs` · `Microservices` · `Entity Framework`
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square" />
 
-### Frontend
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Kendo_UI-FF6358?style=flat-square" />
 
-`Angular` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Kendo UI`
+**Data**
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 
-### Databases
+**Cloud & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 
-`SQL Server` · `MySQL` · `MongoDB`
+**Messaging & Caching**
+<br/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure_Event_Grid-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=flat-square" />
 
-### Cloud & DevOps
-
-`Microsoft Azure` · `Oracle Cloud Infrastructure` · `Docker` · `Azure DevOps` · `CI/CD`
-
-### Messaging & Caching
-
-`RabbitMQ` · `Redis` · `Azure Service Bus` · `Azure Event Grid` · `Azure Event Hubs`
+</div>
 
 ---
 
-# Certifications
+## Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="28"/> Azure Developer Associate
-
-**Microsoft · April 2026**
-
-`Azure App Service`  
-`Azure Functions`  
-`Azure SQL`  
-`Azure Storage`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="28"/> Azure Fundamentals
-
-**Microsoft · March 2026**
-
-`Cloud Concepts`  
-`Azure Services`  
-`Governance`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/oracle/F80000" width="28"/> OCI Developer Professional
-
-**Oracle · October 2025**
-
-`OCI Development`  
-`Cloud Native`  
-`APIs`  
-`Serverless`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/oracle/F80000" width="28"/> OCI Generative AI Professional
-
-**Oracle · October 2025**
-
-`Generative AI`  
-`LLMs`  
-`Model Deployment`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/oracle/F80000" width="28"/> OCI AI Foundations Associate
-
-**Oracle · November 2025**
-
-`Artificial Intelligence`  
-`Neural Networks`  
-`ML Concepts`
-
-</td>
-
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/google/4285F4" width="28"/> Foundations of UX Design
-
-**Google · March 2023**
-
-`UX Design`  
-`User Research`  
-`Prototyping`
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="20" valign="middle"/> Azure Developer Associate**<br/>Microsoft · April 2026<br/>`App Service` `Functions` `Azure SQL` `Storage` | **<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="20" valign="middle"/> Azure Fundamentals**<br/>Microsoft · March 2026<br/>`Cloud Concepts` `Azure Services` `Governance` |
+| **<img src="https://cdn.simpleicons.org/oracle/F80000" width="20" valign="middle"/> OCI Developer Professional**<br/>Oracle · October 2025<br/>`OCI Development` `Cloud Native` `APIs` `Serverless` | **<img src="https://cdn.simpleicons.org/oracle/F80000" width="20" valign="middle"/> OCI Generative AI Professional**<br/>Oracle · October 2025<br/>`Generative AI` `LLMs` `Model Deployment` |
+| **<img src="https://cdn.simpleicons.org/oracle/F80000" width="20" valign="middle"/> OCI AI Foundations Associate**<br/>Oracle · November 2025<br/>`Artificial Intelligence` `Neural Networks` `ML Concepts` | **<img src="https://cdn.simpleicons.org/google/4285F4" width="20" valign="middle"/> Foundations of UX Design**<br/>Google · March 2023<br/>`UX Design` `User Research` `Prototyping` |
 
 ---
 
 ## Cloud & Architecture
 
-I'm particularly interested in designing and building applications using:
+**Microsoft Azure** — App Service · Functions · Storage · Azure SQL · Service Bus · Event Grid · Event Hubs · Cosmos DB · Key Vault · Managed Identity · Application Insights
 
-**Microsoft Azure**
+**Oracle Cloud Infrastructure** — Cloud Native Applications · Serverless · APIs · Generative AI · LLM Applications
 
-Azure App Service · Azure Functions · Azure Storage · Azure SQL ·
-Azure Service Bus · Azure Event Grid · Azure Event Hubs · Cosmos DB ·
-Key Vault · Managed Identity · Application Insights
-
-**Oracle Cloud Infrastructure**
-
-OCI Development · Cloud Native Applications · Serverless · APIs ·
-Generative AI · LLM Applications
-
-**Architecture**
-
-Microservices · Event-Driven Architecture · Distributed Systems ·
-Caching · Messaging · RESTful APIs
+**Architecture** — Microservices · Event-Driven Architecture · Distributed Systems · Caching · Messaging · RESTful APIs
 
 ---
 
-## Engineering Focus
+## Currently Deepening
 
-I'm currently deepening my knowledge in:
-
-- **Data Structures & Algorithms**
-- **System Design**
-- **Distributed Systems**
-- **Microservices Architecture**
-- **Cloud-Native Development**
-- **Azure Architecture**
-- **Generative AI & LLM Applications**
-- **Performance & Scalability**
+`Data Structures & Algorithms` · `System Design` · `Distributed Systems` · `Microservices Architecture` · `Cloud-Native Development` · `Azure Architecture` · `Generative AI & LLM Applications` · `Performance & Scalability`
 
 ---
 
 ## Selected Work
 
-My repositories contain projects and experiments across:
-
 | Area | Technologies |
-| --- | --- |
-| **Full-Stack Development** | C# · .NET · Angular · TypeScript |
-| **Backend Engineering** | ASP.NET Core · REST APIs · Microservices |
-| **Cloud Development** | Azure · OCI · Docker |
-| **Data & Infrastructure** | SQL Server · Redis · RabbitMQ |
-| **AI** | Generative AI · LLMs · AI APIs |
+|---|---|
+| Full-Stack Development | C# · .NET · Angular · TypeScript |
+| Backend Engineering | ASP.NET Core · REST APIs · Microservices |
+| Cloud Development | Azure · OCI · Docker |
+| Data & Infrastructure | SQL Server · Redis · RabbitMQ |
+| AI | Generative AI · LLMs · AI APIs |
 
-For projects, implementations, and experiments:
-
-**→ [Explore my repositories](https://github.com/sinan234)**
+**[→ Explore my repositories](https://github.com/sinan234)**
 
 ---
 
-## Let's Connect
+<div align="center">
 
-<p align="left">
-  <a href="https://smpportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-smpportfolio.vercel.app-111827?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-sinan-0a4394226/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Sinan%20M%20P-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<sub>Build · Learn · Solve · Improve</sub>
 
----
-
-<p align="center">
-  <sub>Build · Learn · Solve · Improve</sub>
-</p>
+</div>
