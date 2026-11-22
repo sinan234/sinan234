@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="./assets/header-banner.png" alt="Sinan M P Header Banner" width="100%" />
+</div>
 
-# Mohammad Sinan M P
+<div align="center">
+
+#Sinan M P
 
 ### Software Engineer · C# · .NET · Angular · Microservices · Azure
 
@@ -118,4 +122,8 @@ I enjoy working across the complete software lifecycle — from designing backen
 
 <sub>Build · Learn · Solve · Improve</sub>
 
+</div>
+
+<div align="center">
+  <img src="./assets/footer-banner.png" alt="Architect Build Scale Ship Footer Banner" width="100%" />
 </div>
