@@ -4,7 +4,7 @@
 
 <div align="center">
 
-#Sinan M P
+<h3>Sinan M P</h3>
 
 ### Software Engineer · C# · .NET · Angular · Microservices · Azure
 
